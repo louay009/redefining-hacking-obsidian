@@ -15,13 +15,13 @@ Red teaming is an adversarial approach to cybersecurity testing that evolved fro
 
 ## ⚔️ Red Team vs Penetration Testing
 
-| Aspect | 🔵 Penetration Testing | 🔴 Red Teaming |
-|--------|----------------------|----------------|
-| **Goal** | Find vulnerabilities | Achieve objectives while avoiding detection |
-| **Scope** | Controlled timeframe | Extended period, persistent threats |
-| **Focus** | System exploitation | Multi-step attacks, detection/response |
-| **Testing** | Technical vulnerabilities | People, processes, technologies |
-| **Approach** | Controlled manner | Creative, stealth-focused |
+| Aspect       | 🔵 Penetration Testing    | 🔴 Red Teaming                              |
+| ------------ | ------------------------- | ------------------------------------------- |
+| **Goal**     | Find vulnerabilities      | Achieve objectives while avoiding detection |
+| **Scope**    | Controlled timeframe      | Extended period, persistent threats         |
+| **Focus**    | System exploitation       | Multi-step attacks, detection/response      |
+| **Testing**  | Technical vulnerabilities | People, processes, technologies             |
+| **Approach** | Controlled manner         | Creative, stealth-focused                   |
 
 ## 🔗 Related Topics
 

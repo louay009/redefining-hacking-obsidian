@@ -1,4 +1,7 @@
 [
   "juggl",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-mind-map",
+  "graph-analysis",
+  "dataview"
 ]
