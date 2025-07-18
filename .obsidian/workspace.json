@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "d7980b56a07920c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1926149a88ee78",
+        "type": "tabs",
+        "dimension": 63.05732484076433,
+        "children": [
+          {
+            "id": "a4057dd84431de95",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "9f46ae714b4f63b3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "78892eb31e4697fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter 3/Chapter 3 - Red Team Infrastructure Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3 - Red Team Infrastructure Overview"
+            }
+          },
+          {
+            "id": "7930f581825c223c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a53e6654ee8ca4fe",
+        "type": "tabs",
+        "dimension": 36.94267515923567,
+        "children": [
+          {
+            "id": "f58e28a36a1bfb7d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3c1883b58380bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "278e507771550898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4a99da3ad3818f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8e4c77ddc31b938",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mythic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "89f4456922292580",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "d710aba818b9513c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e844ff8a97fbe76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab64869a514e45a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for chapter2"
+            }
+          },
+          {
+            "id": "c3045e35bff25ac7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chapter2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from chapter2"
+            }
+          },
+          {
+            "id": "03b071fe20715dce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "157e383abedb0b8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chapter2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of chapter2"
+            }
+          },
+          {
+            "id": "000bca1911c789b3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "8effb1862b37a694",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "7930f581825c223c",
+  "lastOpenFiles": [
+    "chapter 2/00-learning-roadmap.md",
+    "chapter 2/05-challenges-and-solutions.md",
+    "chapter 2/04-engagement-types.md",
+    "chapter 2/03-frameworks-and-methodologies.md",
+    "chapter 2/02-importance-of-red-teaming.md",
+    "chapter 2/01-red-teaming-fundamentals.md",
+    "chapter3.md",
+    "chapter 3/Chapter 3 - Red Team Infrastructure Overview.md",
+    "chapter 2/Chapter 2 - Red Teaming Overview.md",
+    "chapter 3/Mythic Usage.md",
+    "chapter 3/Mythic Framework.md",
+    "images/page144_img1.jpeg",
+    "images",
+    "chapter 2/Red Team Challenges.md",
+    "chapter 2/Lack of Findings.md",
+    "chapter 2/Positive Outcomes from Clean Tests.md",
+    "chapter 2/CBEST Framework.md",
+    "images/page136_img1.jpeg",
+    "images/page141_img1.jpeg",
+    "images/page140_img1.jpeg",
+    "images/page139_img1.jpeg",
+    "images/page137_img1.jpeg",
+    "page149_img2.jpeg",
+    "page149_img1.jpeg",
+    "page148_img1.jpeg",
+    "page147_img2.jpeg",
+    "chapter 3/C2 Redirectors.md",
+    "chapter 2/Red Teaming Benefits.md",
+    "chapter 2/MITRE ATT&CK Framework.md",
+    "chapter 3/MITRE ATT&CK Framework.md",
+    "chapter 3/chapter3.md",
+    "chapter 3/Mythic Community Profiles.md",
+    "chapter 3/C2 Communication Channels.md",
+    "chapter 3/Command and Control Frameworks.md",
+    "chapter 2/Red Team Frameworks.md",
+    "chapter 3/Nighthawk.md",
+    "chapter 3/Cobalt Strike.md",
+    "chapter 3",
+    "chapter 2",
+    "Redefining Hacking_ A Comprehensive Guide to Red Teaming and -- Omar Santos & Savannah Lazzara & Wesley Thurner -- 2025 -- Addison-Wesley -- ef5e51b0c2176be58f6e4468c20f00f7 -- Anna’s Archive.pdf"
+  ]
+}
